@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/assets/fauxleo_A_woman_with_a_giant_colorful_pompadour_which_resembles_6a6fdb91-6f61-4cb8-993c-a4d21e3a7c7a.png"
     width="300"
 />
 </p>
